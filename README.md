@@ -1,4 +1,4 @@
-# song_viewer
+# Song Viewer
 
 Visma task project
 
